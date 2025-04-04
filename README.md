@@ -1,5 +1,6 @@
-# datasciencepandasnumpy
+# Data Science (pandas and NumPy)
 Data Science refresher with pandas and NumPy for community learning.
+This tutorial uses the fundamentals of Python language as such and does not emphasise on teaching them primarily.
 
 ## Install Python and pip
 - Install Python using GUI installer wizard or with the following command:
@@ -38,3 +39,5 @@ Be default, the Python kernel of the virtual environment is not listed in Jupyte
 
 ## How to uninstall the virtual env kernel epecification 'dspandas'
 `jupyter kernelspec uninstall dspandas`
+
+### Note: Images have been duly captured. They will be embedded soon.
