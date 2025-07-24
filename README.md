@@ -1,5 +1,5 @@
 # Data Science with Python (pandas, NumPy, PyTorch and more)
-Data Science refresher with pandas and NumPy for community learning.
+Data Science refresher with pandas and NumPy for the readers who may like to revisit these libraries.
 This tutorial uses the fundamentals of Python language as such and does not emphasise on teaching them primarily.
 
 ## Install Python and pip
