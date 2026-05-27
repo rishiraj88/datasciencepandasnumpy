@@ -56,8 +56,6 @@ Be default, the Python kernel of the virtual environment is not listed in Jupyte
 ## How to uninstall the virtual env kernel epecification 'dspandas'
 `jupyter kernelspec uninstall dspandas`
 
-### Note: Images have been duly captured. They will be embedded soon.
-
 ## Mark your feedback at the Following Contact Points
 - **LinkedIn:** <https://www.linkedin.com/in/rishirajopenminds>
 - **GitHub:** <https://github.com/rishiraj88>
